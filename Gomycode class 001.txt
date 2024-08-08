@@ -1,0 +1,163 @@
+Super skills
+sub skills
+
+6 hours daily
+3 hours
+3 hours
+4 hours
+total = 10 hours daily
+
+12 hours daily
+4 hours for rest
+
+Build two different websites
+
+18 hours
+
+6 hours
+
+NPS
+Net Promoter Score - to get feedback
+
+9-10 promoters
+7-8 neither satisfied nor understand
+1-6 unsatisfied
+
+Document Object Model
+What is VS Code - IDE Integrated Developers Environment Visual Studio Code 
+Why is VS Code highly encouraged.
+Owned by MicroSoft
+
+VSCode
+Sublime text
+Dev C
+
+CLI - Command Line Interface
+GUI - Graphical User Interface
+
+Search for the command (Command Line Interface) - (Window + R)
+cd - change directory
+cd> desktop
+to move back to the desktop folder: cd_.. (cd space dot dot)
+
+to make a new directory (web store)
+
+
+Web Store
+mkdir web-store
+
+to navigate into the folder
+cd web-store
+
+to creat a file.  "index.html" 
+in windows notepad index.html
+/ in mac os touch index.html
+
+To check the lists of files in folder
+in windows: dir
+in Mac: ls
+
+to open the file in VS code, use code_. (code space dot)
+
+vs code extensions 
+Extensions are tools to help my programming life
+Define extension.
+
+HTML - Hyper Text Markup Language
+Web site - Web Architecture
+CSS - Cascading Style Sheet
+JavaScript - Interactivity of the Web. This is the soul of the Web
+CSS - The Body
+HTML - Skeleton
+
+
+Three basic languages
+HTML, CSS, JavaScript.
+
+HTML - Framework
+CSS - Modifies the style 
+
+Brief research on 
+
+boiler page, every webpage will create a framework for the webpage
+click on (! + enter)
+
+Html tag = root tag
+head = contains meta data = data about data; meta information
+title = 
+body = 
+
+We use the html tags to write codes 
+The heading tags and paragraph tag
+<h1></h1>
+<p><p>
+
+both heading and paragraph tag are paired tags. it has openning and closing tag
+
+creating an image
+<img/>
+image tag has attributes src="extra functionalities to help the tag do some more things"
+image can be on a folder on the system or on a local server.
+
+Image tag does not have a closing tag... unpaired tag... self closing tag
+
+Pintrest
+Flash
+Freepic
+
+src attribute - declare the path to the image
+./dev.jpg
+
+
+
+
+What You're Aiming For
+
+Section 1: General Awareness
+Web Development Basics:
+
+What is web development, and why is it essential in the context of the internet?
+HTML Knowledge:
+
+Have you heard of HTML? If yes, what does HTML stand for, and what is its primary purpose in web development?
+
+
+
+Section 2: Familiarity with CSS
+CSS Understanding:
+Are you familiar with CSS? If yes, briefly explain what CSS is used for in web development.
+
+
+
+Section 3: JavaScript and Its Importance
+Introduction to JavaScript:
+Have you heard of JavaScript? If yes, what is JavaScript, and why is it crucial for building interactive websites?
+
+
+
+Section 4: Introduction to React and Node.js
+React and Node.js Awareness:
+Are you familiar with React and Node.js? If yes, provide a brief description of what React and Node.js are commonly used for in web development.
+
+
+
+Section 5: Bonus Question
+Learning Intentions:
+Why do you want to learn web development, and what do you hope to achieve by acquiring skills in HTML, CSS, JavaScript, React, and Node.js?
+
+Instructions
+
+Answer the questions with the manner you like.
+ 
+Your instructor will read all your answer and rank you based on that
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,90 @@
+Welcome & Environment SETUP
+
+Test your Level
+
+
+What You're Aiming For
+
+Section 1: General Awareness
+Web Development Basics:
+
+What is web development, and why is it essential in the context of the internet?
+Web development refers to the process of creating and maintaining websites and web applications. 
+It encompasses various aspects, including web design, web content development, client-side and server-side scripting, and network security configuration. 
+Web development can range from creating a simple static page with plain text to complex web-based applications, social network services, and e-commerce platforms.
+
+
+*Web Development is the process of creating and maintaining websites and web applications. It covers various aspects of web development which includes web design, 
+web content development, client-side, server-side scripting, and network security configuration. Some types of websites that can be created includes static page with plain text, complex web-based application, social network
+services, and e-commerce platforms.
+
+
+
+*HTML Knowledge:
+Have you heard of HTML? If yes, what does HTML stand for, and what is its primary purpose in web development?
+HTML stands for Hypertext Markup Language, it is used to create and structure content on the web. It is the backbone of all websites and essential for web development.
+
+
+Section 2: Familiarity with CSS
+CSS Understanding:
+Are you familiar with CSS? If yes, briefly explain what CSS is used for in web development.
+
+CSS, which stands for Cascading Style Sheets, is a style sheet language used in web development 
+to describe the presentation and visual appearance of a document written in HTML or XML. 
+CSS controls how elements on a web page are displayed and allows developers to apply styles consistently across multiple pages.
+
+
+*CSS stands for Cascading Style sheet and is a style sheet language used in web development to describe the presentation and visual appearance of a document written in HTML or XML.
+
+
+
+
+
+Section 3: JavaScript and Its Importance
+Introduction to JavaScript:
+Have you heard of JavaScript? If yes, what is JavaScript, and why is it crucial for building interactive websites?
+
+
+*JavaScript is a high-level, interpreted programming language that is widely used in web development to create interactive and dynamic content on websites. 
+It is a versatile language that can be executed on the client-side (in the user's browser) or server-side (on the web server). 
+JavaScript is an essential part of the modern web development stack, often used alongside HTML and CSS.
+
+
+
+
+Section 4: Introduction to React and Node.js
+React and Node.js Awareness:
+Are you familiar with React and Node.js? If yes, provide a brief description of what React and Node.js are commonly used for in web development.
+
+React is a popular JavaScript library for building user interfaces, particularly for single-page applications where the UI needs 
+to update dynamically in response to user interactions.
+
+Node.js
+Node.js is a JavaScript runtime environment that enables developers to run JavaScript code outside of a web browser. 
+
+
+
+
+
+Section 5: Bonus Question
+Learning Intentions:
+Why do you want to learn web development, and what do you hope to achieve by acquiring skills in HTML, CSS, JavaScript, React, and Node.js?
+
+*I'm interested in learning Web Development because it's in High Demand and presents various career opportunities in tech, as businesses and organizations 
+increasingly rely on digital platforms. this demand spans across various industries, including technology, finance, healthcare, education, and more.
+
+Versitile Skillset
+Constant learning and Growth
+Problem Solving skills
+Contribution to the digital world
+
+
+
+
+
+
+
+
+
+
+
