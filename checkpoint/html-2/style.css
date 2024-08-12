@@ -1,0 +1,38 @@
+nav {
+    display: inline;
+    margin-right: 20px;
+}
+nav a{
+    color: #000;
+    font-family: georgia;
+}
+nav a:hover{
+    color: #007BFF;
+}
+.myDiv-1 {
+    background-color: gold;
+    border: 2px solid brown;
+    padding: 20px;
+    margin: 5px;
+    font-family:  Georgia, Segoe UI;
+    color: blue;
+    text-align: center;
+}
+.myH-1 {
+    background-color: gold;
+    border: 2px solid orange;
+    padding: 15px;
+    margin: 5px;
+    font-family: 'Courier New', Courier, monospace;
+    color: blue;
+    text-align: center;
+}
+.myDiv-2 {
+    background-color: gold;
+    border: 2px solid orangered;
+    padding: 15px;
+    margin: 5px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: blue;
+    text-align: center;
+}
