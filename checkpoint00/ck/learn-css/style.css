@@ -1,0 +1,77 @@
+body{
+    background-color: #012740;
+    background: linear-gradient(to right, black, rgb(1, 1, 88));
+    font-family: "Roboto", sans-serif;
+}
+.nav-bar{
+    color:#f6f6f7;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 75%;
+    margin: 15px auto;
+}
+.nav-logo a{
+    text-decoration: none;
+    font-size: 3em;
+    font-weight: 700;
+}
+.nav-logos ul{
+    display: flex;
+    gap: 30px;
+    list-style-type: none;
+}
+.nav-logos ul li a{
+    color: #efefee;
+    text-decoration: none;
+    font-weight: 700;
+}
+.nav-logos ul li a:hover{
+    color: black;
+}
+.active{
+    color: black !important;
+}
+.tx{
+    font-size: 90px;
+    color: #efefee;
+    border: 5px solid black;
+}
+.ai{
+    background-color: none;
+    border: 15px solid black;
+    padding: 20px;
+    margin: 30px;
+}
+.ai2{
+    font-family: "Roboto", sans-serif;
+    color: #efefee;
+    font-size: 40px;
+    text-align: center;
+    font-weight: 30px;
+    background-color: none;
+    border: 15px solid black;
+    padding: 20px;
+    margin: 30px;
+}
+.touch{
+    border: 15px solid black;
+    padding: 20px 40px;
+    margin: 30px 60px;
+}
+.hover{
+    border: 15px solid black;
+    padding: 20px 40px;
+    margin: 30px 60px;
+}
+.container{
+    color: #efefee;
+    font-size: 40px;
+    font-weight: 30px;
+    text-align: center;
+    border: 15px solid black;
+    padding: 30px 70px;
+    margin: 30px 60px;
+    display: flex;
+    gap: 60px;
+}

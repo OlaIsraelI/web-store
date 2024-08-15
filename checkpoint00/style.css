@@ -1,0 +1,18 @@
+
+#first-head{
+       color: peru;
+       font-size: 50px;
+  }
+#second-head{
+       color: red;
+       font-size: 20px;
+  }
+  #third-head{
+   color: blue;
+   font-size: 30px;
+  }
+  .what{
+   color: purple;
+   font-size: 50px;
+   font-weight: 900;
+  }
